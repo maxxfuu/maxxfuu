@@ -1,6 +1,6 @@
 # About Me:
 - Studying Computer Science & Engineering at the University of California, Merced.
-- Interests in Low-Level Programming and Quantitative Finance. 
+- Interests in Low-Level Programming, Machine Learning, and Quantitative Finance. 
 
 
 ## Socials:
