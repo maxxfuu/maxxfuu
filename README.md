@@ -1,6 +1,6 @@
 # About Me:
 - Second year studying Computer Science & Engineering at the University of California, Merced.
-- Interests in Low-Level Programming and Deep Learning. 
+- Interests in Low-Level Programming
 
 
 ## Socials:
