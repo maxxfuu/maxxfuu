@@ -1,9 +1,7 @@
 # About Me:
-- Second year studying Computer Science & Engineering at the University of California, Merced.
-- Interests in Low-Level Programming
 
-
-## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maxxfuu) 
-
----
+A little about me!
+- Raised in Taiwan 🇹🇼!
+- Currently pursuing an undergraduate degree
+- Started seriously coding in July 2023
+- [Blogging](https://maxxfuu.bearblog.dev/) about my learning
