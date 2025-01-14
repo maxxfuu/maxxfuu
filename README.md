@@ -1,3 +1,3 @@
 build what excites.
 
-🌱 [Blogging](maxxfuu.com) about my learning
+🌱 [Blogging](https://maxxfuu.com) about my learning
