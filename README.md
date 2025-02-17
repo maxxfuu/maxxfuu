@@ -1,2 +1,2 @@
-> build what excites.
-> [blogging](https://maxxfuu.com) about my learning
+\> build what excites.\
+\> [Blogging](https://maxxfuu.com) about my learning.
