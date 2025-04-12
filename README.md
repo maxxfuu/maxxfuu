@@ -13,5 +13,8 @@ I am passionate about writing memory efficent and low-latency systems with C++17
 - 📚 [OpenCourse](https://opencourse.me)
 - 💻 [dot-com](https://maxxfuu.com)
 - ⚙️ [Bcon](https://github.com/maxxfuu/bcon)
-- ⛵️ MiRa 
+- ⛵️ [MiRa](https://github.com/maxxfuu/)
+- 🔌 [Sockets]()
+- 🐚 [Mxsh](https://github.com/maxxfuu/mxsh)
+- 🤖 [RNN](https://github.com/maxxfuu/RNN-from-scratch)
 
