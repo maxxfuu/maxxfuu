@@ -10,7 +10,7 @@ I am passionate about writing memory efficent and low-latency systems with C++17
 - Assoication of Computer Machinery, SIG-AI LEAD
 
 ## Projects
-- 📚 [OpenCourse](https://opencourse.me)
+- 📚 [OpenCourse (Beta)](https://opencourse.me)
 - 💻 [dot-com](https://maxxfuu.com)
 - ⚙️ [Bcon](https://github.com/maxxfuu/bcon)
 - ⛵️ [MiRa](https://github.com/maxxfuu/)
