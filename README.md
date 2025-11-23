@@ -11,6 +11,7 @@ I am passionate about writing memory efficent and low-latency systems with C++17
 - Association of Computer Machinery, SIG-AI LEAD
 
 ## Projects
+- 🤖 [Yagmi](https://yagmi.app)
 - 🔒 [Obscuri](https://obscuri.app) 
 - 💻 [dot-com](https://maxxfuu.com)
 - ⚙️ [Bcon](https://github.com/maxxfuu/bcon)
