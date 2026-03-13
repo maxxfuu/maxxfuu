@@ -1,5 +1,4 @@
-### software engineer, entrepreneur, and powerlifter
-
+### im max!
 ### experience
 - Software Engineer Intern @ Machyna. 
 - Teaching Assistant, Electrical Engineering 021
