@@ -7,6 +7,7 @@
 - Association of Computer Machinery, SIG-AI LEAD
 
 ### projects
+- 📈 [HFT-Engine](https://github.com/maxxfuu/HFT-Engine)
 - 🤖 [Yagmi](https://yagmi.app)
 - ⏰ [Clock In](https://clockin.now/)
 - 🔒 [Obscuri](https://obscuri.app) 
