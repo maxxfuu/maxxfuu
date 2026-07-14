@@ -1,3 +1,4 @@
+![Banner](assets/banner.png)
 ### im max!
 ### experience
 - Software Engineer Intern @ Machyna. 
