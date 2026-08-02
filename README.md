@@ -8,6 +8,8 @@
 - Association of Computer Machinery, SIG-AI LEAD
 
 ### projects
+- [VisualKernels](https://visualkernels.com)
+- [VisualGPU](https://visualgpu.com)
 - [Bookie](https://github.com/maxxfuu/bookie)
 - [HFT-Engine](https://github.com/maxxfuu/HFT-Engine)
 - [Yagmi](https://yagmi.app)
