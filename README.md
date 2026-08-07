@@ -8,7 +8,7 @@
 - Association of Computer Machinery, SIG-AI LEAD
 
 ### projects
-- [Optimized-SGEMM, CuBLAS like performance)[https://github.com/maxxfuu/optimized-GEMM]
+- [Optimized-SGEMM, CuBLAS like performance](https://github.com/maxxfuu/optimized-GEMM)
 - [VisualKernels](https://visualkernels.com)
 - [VisualGPU](https://visualgpu.com)
 - [Bookie](https://github.com/maxxfuu/bookie)
