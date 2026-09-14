@@ -1,6 +1,6 @@
-![banner](assets/banner.jpg)
-### im max!
+### I'm Max!
 ### experience
+- Inference Engineering
 - Software Engineer Intern @ Machyna. 
 - Teaching Assistant, Electrical Engineering 021
 - Undergraduate Research, Mitigating Sycophantic Behavior w/ Mechanistic Interpretability
