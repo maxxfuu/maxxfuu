@@ -9,6 +9,7 @@
 
 ### projects
 - [Optimized-SGEMM, CuBLAS like performance](https://github.com/maxxfuu/optimized-GEMM)
+- [GPT-2 from Scratch](https://github.com/maxxfuu/GPT2)
 - [VisualKernels](https://visualkernels.com)
 - [VisualGPU](https://visualgpu.com)
 - [Bookie](https://github.com/maxxfuu/bookie)
