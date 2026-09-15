@@ -1,6 +1,6 @@
 ### I'm Max!
 ### experience
-- Inference Engineering
+- Writing GPU Kernels... 
 - Software Engineer Intern @ Machyna. 
 - Teaching Assistant, Electrical Engineering 021
 - Undergraduate Research, Mitigating Sycophantic Behavior w/ Mechanistic Interpretability
